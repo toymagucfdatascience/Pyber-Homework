@@ -1,0 +1,12 @@
+Google Chrome   ready
+Slack   ready
+Microsoft Excel  ready
+Git / GitHub   ready 
+Git Bash (Windows Only) ready
+
+Heroku Toolbelt  ready 
+
+
+Mongo DB   ready  
+VS Code    
+Anaconda  
